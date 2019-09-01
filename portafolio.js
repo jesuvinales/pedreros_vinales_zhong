@@ -1,7 +1,7 @@
 var trabajos = [{
     figure: "media/Celer v2.png",
-    alt: "Celler",
-    title: "CELLER",
+    alt: "Celer",
+    title: "CELER",
     about: "Dispositivo de atletismo para personas con discapacidad visual",
     url:"https://www.youtube.com/watch?v=PuU5MXKQo-0"
 }, {
@@ -12,15 +12,15 @@ var trabajos = [{
     url:"https://www.youtube.com/watch?v=vTa-lhEuP78"
 }, {
     figure: "media/syl.jpg",
-    alt: "Syl",
-    title: "SYL",
+    alt: "Cyl",
+    title: "CYL",
     about: "Banca para Campus Lo Contador,FADEU",
     url:"https://www.instagram.com/p/B11ixp3FHHl/"
 }, {
     figure: "media/WhatsApp Image 2019-08-21 at 14.54.01 (1).jpeg",
     alt: "Micelio",
     title: "MICELIO",
-    about: "Plataforma web de intercambio de conocimientos para agricultures",
+    about: "Plataforma web de intercambio de conocimientos para agricultores",
     url:"https://www.youtube.com/watch?v=50Nr1FRy4W4"
 }, {
     figure: "media/virutex.png",
@@ -56,13 +56,13 @@ var trabajos = [{
         figure: "media/untitled.293.png",
         alt: "Exhibidor de vinos",
         title: "EXHIBIDOR DE VINOS",
-        about: "Propueta de packaging de vinos con doble función para exhibidor",
+        about: "Propuesta de packaging de vinos con doble función para exhibidor",
         url:"https://www.instagram.com/p/B11fof0F3UX/"
 }, {
         figure: "media/foto mash.jpg",
         alt: "Mash",
         title: "MASH",
-        about: "blablablalbalb",
+        about: "Mezclador de silicona que canaliza el estrés en la cocina",
         url:"https://www.instagram.com/p/B12p3YIl__b/"
 }, {
         figure: "media/Captura de Pantalla 2019-08-26 a la(s) 11.58.00.png",
