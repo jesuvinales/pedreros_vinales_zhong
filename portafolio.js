@@ -11,7 +11,7 @@ var trabajos = [{
     about: "Juguete móvil de plástico reciclado",
     url:"https://www.youtube.com/watch?v=vTa-lhEuP78"
 }, {
-    figure: "media/_MG_1218.jpg",
+    figure: "media/syl.jpg",
     alt: "Syl",
     title: "SYL",
     about: "Banca para Campus Lo Contador,FADEU",
@@ -29,7 +29,7 @@ var trabajos = [{
     about: "Parches para manchas de emergencia",
     url:"https://www.youtube.com/watch?v=DMVR3YH0l38"
 }, {
-    figure: "media/_DSC2609 (1).jpg",
+    figure: "media/maramba.jpg",
     alt: "Maramba",
     title: "MARAMBA",
     about: "Enriquecimiento ambiental para servales del ZooMet",
