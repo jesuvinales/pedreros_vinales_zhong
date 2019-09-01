@@ -26,7 +26,7 @@ RUM es un juguete móvil y versátil, fabricado en su mayoría de plastico recic
 RUM está compuesto a partir de la plancha de 10 mm producida actualmente por la empresa cortada y grabada en cnc con una pieza en T que une ruedas y timón, y mediante una bisagra permite que se abata.
 Este mecanismo permite dos modos de uso. el primero, al encontrarse bloqueada la bisagra, es el modo scooter. Al levantarse el seguro el timón puede inclinarse hacia ambos lados esto habilita el modo carrito.
 
-#### PROYECTO 3: “Syl”
+#### PROYECTO 3: “Cyl”
 
 **Año: Estructura y materiales, 1º semestre, 2019.** 
 
