@@ -52,7 +52,7 @@ h2{
 
 h1{
     font-size:3rem;
-    cursor: cursor: url(http://cur.cursors-4u.net/cursors/cur-3/cur243.ani), url(http://cur.cursors-4u.net/cursors/cur-3/cur243.png), pointer;
+    cursor:url(http://cur.cursors-4u.net/cursors/cur-3/cur243.ani), url(http://cur.cursors-4u.net/cursors/cur-3/cur243.png), pointer;
 }
 
 h2{
@@ -304,7 +304,7 @@ AHORA VAMOS POR PORTAFOLIO
      text-transform:uppercase;
      padding-bottom: 0.5em;
      letter-spacing:0.5em;
-     font-size:0.5em
+     font-size:0.5em;
      color: #00acc1;
      text-align:center;
 }
