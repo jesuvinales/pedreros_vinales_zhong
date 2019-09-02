@@ -66,17 +66,7 @@ El parche se puede dejar camuflando tras los 15 minutos de aplicación o bien, f
 
 Sistema de enriquecimiento ambiental, enfocado en la alimentación de Servales. consta de plataformas y argollas incorporadas a una cuerda elástica, ambas con la capacidad de ser intercambiables para así ser ubicadas en diferentes lugares del recinto. este sistema logra variar la rutina de estos animales, generando un mayor gasto de energía al momento de alimentarse. Los prototipos fueron diseñados con la intención de dar tridimensionalidad al recinto, a través de instalaciones de altura y aprovechando el espacio aéreo. De esta manera, cumplir con la necesidad de los felinos de posicionarse en altura respecto a los visitantes y respetar su territorialidad. 
 
-#### PROYECTO 7: “Agrocinta”
-
-**Año:** Taller TIDE, 1º semestre, 2019.
-
-**Integrantes:** Valentina Carrasco, Rodrigo Guzmán, Loreto Maturana, Francisca Pedreros, Chriss Ramírez.
-
-Un sistema que facilita la manipulación de semillas durante la siembra directa a través de una cinta de papel biodegradable que dispone las semillas a la distancia adecuada para ser plantadas.
-
-Este sistema se conforma de 2 partes principalmente, una cinta de 200 mts biodegradable personalizada según el tipo de planta que trae semillas incorporadas dentro y una  estructura que permite la implementación de la cinta en los distintos tipos de cultivos.
-
-#### PROYECTO 8: “Tumis”
+#### PROYECTO 7: “Tumis”
  
 **Año:** Taller TIDE, 1º semestre, 2019
 
@@ -84,7 +74,7 @@ Este sistema se conforma de 2 partes principalmente, una cinta de 200 mts biodeg
 
 Portador de colaciones hermético y plegable, que aporta en el aprendizaje de hábitos alimenticios de niños en edad pre escolar y escolar, entregando firmeza, resistencia y hermeticidad para un traslado eficiente las colaciones de los/as niño/as, al ser plegable y no ocupar espacio después de ser ocupado.  Hechos a partir de Pep con silicona, sellado al vacío, para así proporcionar seguridad y comodidad en el traslado.
 
-#### PROYECTO 9: “Lubtat” 
+#### PROYECTO 8: “Lubtat” 
 
 **Año:** Taller producto, segundo semestre 2018
 
@@ -92,7 +82,7 @@ Portador de colaciones hermético y plegable, que aporta en el aprendizaje de h�
 
 “Tatuajes temporales”, tipo sticker, que pueden guardar información vital sobre la persona que lo usa, en caso de sufrir un accidente realizando alguna actividad al aire libre. También se puede digitar un patrón sobre el mismo para dar la alerta en caso de necesitar asistencia o informar sobre si está en una situación de peligro, y la ubicación en tiempo real. 
 
-#### PROYECTO 10: “Mash” 
+#### PROYECTO 9: “Mash” 
 
 **Año:** Taller TIDE, primer semestre 2018
 
@@ -105,7 +95,7 @@ Puede liberar tensiones a partir de apretar el producto.
 Optimiza su tiempo en la cocina, ya que se demora menos en lavar el recipiente y se ahorra el utilizar distintos utensilios de cocina.
 Evita la manipulación y contacto con los alimentos, ya que todo el proceso de cocinar se realiza dentro del mezclador.
 
-#### PROYECTO 11: “Exhibidor de vinos”
+#### PROYECTO 10: “Exhibidor de vinos”
 
 **Año:** Taller calidad II, segundo semestre 2019
 
@@ -114,7 +104,7 @@ Evita la manipulación y contacto con los alimentos, ya que todo el proceso de c
 Propuesta de packaging de 6 vinos, que trae de forma prepicada en el mismo material, un exhibidor. 
 Este se desarrolla en el contexto de un usuario que recibe esta caja varias veces en el año, por estar suscrito a un club de vinos, por lo que la persona desecha estas cajas en varias ocasiones y el material se desaprovecha. Debido a esto, nace la idea de crear un exhibidor con el mismo material de la caja, para darle un nuevo uso a este y para que la persona pueda mostrar en algún espacio los vinos que recibe constantemente. 
 
-#### PROYECTO 12: “Nauca”
+#### PROYECTO 11: “Nauca”
 
 **Año:** Taller producto, segundo semestre 2018 
 
