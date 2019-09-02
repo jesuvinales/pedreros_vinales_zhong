@@ -41,12 +41,6 @@ var trabajos = [{
     about: "Contenedor de alimentos plegable",
     url:"https://youtu.be/cdVjH82LjoA "
 }, {
-      figure: "media/examen.300.png",
-      alt: "Agrocinta",
-      title: "AGROCINTA",
-      about: "Sistema de sembrado directo",
-      url:"https://youtu.be/OqRQvZgHrLk"
-}, {
         figure: "media/Proyectos EMERGENCIA-7260.jpg",
         alt: "Nauca",
         title: "NAUCA",
